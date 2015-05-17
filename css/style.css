@@ -1,0 +1,19 @@
+span {
+  color: black;
+}
+
+body {
+  background-color: #C7C7C7;
+  color: black;
+  font-family: Trebuchet MS, Helvetica, sans-serif;
+}
+
+a {
+  font-weight:bold;
+    color:green;
+  text-decoration:none;
+  background-color:#9F9F9F
+}
+p {
+  text-indent:20px;
+}
